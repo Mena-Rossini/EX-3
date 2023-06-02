@@ -5,7 +5,7 @@
 ## AIM:
 To write a python program to perform sliding window protocol
 
-ALGORITHM:
+## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
 3. To create the frame based on the user request.
