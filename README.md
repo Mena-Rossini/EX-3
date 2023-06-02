@@ -37,6 +37,7 @@ while True:
  if ack:
  print(ack)
  i+=s
+
  ```
 SERVER:
 ```
@@ -50,9 +51,11 @@ while True:
 OUTPUT:
 
 CLIENT:
+![242639258-b8fbf260-0373-4c59-b4ab-83dd6a23bee8](https://github.com/Mena-Rossini/EX-3/assets/102855266/765e0ec7-b3f4-47f6-95a3-826daf0967ef)
 
 
 SERVER:
+![242639172-33c60487-ba3b-4474-bf6d-4b80cdd91a82](https://github.com/Mena-Rossini/EX-3/assets/102855266/cd4c95ef-d75e-41cc-a2cc-7e990d904085)
 
 
 RESULT:
